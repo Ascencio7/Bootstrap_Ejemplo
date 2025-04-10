@@ -1,0 +1,13 @@
+Bootstrap: Libreria de estilos CSS creada por Twitter, cuya principal caracteristica es dotar
+a los sitios web de responsividad.
+
+CDN (Content Delevery Network): red de distribucion de elementos
+
+sm: small
+md: medium
+lg: large
+xl: extra large
+
+con tamano horizontal de la pantalla
+
+row: filas
